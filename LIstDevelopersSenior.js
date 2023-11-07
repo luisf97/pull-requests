@@ -1,1 +1,1 @@
-const Seniors = ['Anderson']
+const Seniors = ['Anderson', 'Luis', 'Berg']
